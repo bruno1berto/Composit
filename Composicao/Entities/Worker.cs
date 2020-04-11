@@ -1,7 +1,5 @@
 ﻿using Composicao.Entities.Enums;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Composicao.Entities
 {
@@ -23,6 +21,7 @@ namespace Composicao.Entities
             Level = level;
             BaseSalary = baseSalary;
             Department = department;
+            Contracts = new List<HouerContract>();
         }
 
         public void AddContract(HouerContract contract)

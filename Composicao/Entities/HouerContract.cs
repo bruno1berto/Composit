@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Composicao.Entities
 {
@@ -10,6 +8,9 @@ namespace Composicao.Entities
         public double  ValuePerHouer { get; set; }
         public int Hours { get; set; }
 
+        public HouerContract() 
+        { 
+        }
         public HouerContract(DateTime date, double valuePerHouer, int hours)
         {
             Date = date;

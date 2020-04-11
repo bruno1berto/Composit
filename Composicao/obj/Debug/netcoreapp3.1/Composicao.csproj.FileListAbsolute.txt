@@ -1,0 +1,13 @@
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.exe
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.deps.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.runtimeconfig.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.runtimeconfig.dev.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.dll
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\bin\Debug\netcoreapp3.1\Composicao.pdb
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.csprojAssemblyReference.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.AssemblyInfoInputs.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.AssemblyInfo.cs
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.dll
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.pdb
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao\Composicao\obj\Debug\netcoreapp3.1\Composicao.genruntimeconfig.cache
